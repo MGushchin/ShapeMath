@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Visual Studio\\ShapeMath\\ShapeMath\\ShapeMath.csproj": {}
+    "F:\\Github\\ShapeMath\\ShapeMath\\ShapeMath.csproj": {}
   },
   "projects": {
-    "F:\\Visual Studio\\ShapeMath\\ShapeMath\\ShapeMath.csproj": {
+    "F:\\Github\\ShapeMath\\ShapeMath\\ShapeMath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Visual Studio\\ShapeMath\\ShapeMath\\ShapeMath.csproj",
+        "projectUniqueName": "F:\\Github\\ShapeMath\\ShapeMath\\ShapeMath.csproj",
         "projectName": "ShapeMath",
-        "projectPath": "F:\\Visual Studio\\ShapeMath\\ShapeMath\\ShapeMath.csproj",
+        "projectPath": "F:\\Github\\ShapeMath\\ShapeMath\\ShapeMath.csproj",
         "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "F:\\Visual Studio\\ShapeMath\\ShapeMath\\obj\\",
+        "outputPath": "F:\\Github\\ShapeMath\\ShapeMath\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",

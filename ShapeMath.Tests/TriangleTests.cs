@@ -8,26 +8,26 @@ namespace ShapeMath.Tests
 		public void Perimeter()
 		{
 			// Arrange
-			var triangle = new Triangle(5, 10, 7);
+			var triangle = new Triangle(5, 5, 6);
 
 			// Act
 			double area = triangle.GetPerimeter();
 
 			// Assert
-			Assert.Equal(11, area);
+			Assert.Equal(8, area);
 		}
 
 		[Fact]
 		public void Area()
 		{
 			// Arrange
-			var triangle = new Triangle(5, 10, 7);
+			var triangle = new Triangle(5, 5, 6);
 
 			// Act
 			double area = triangle.GetArea();
 
 			// Assert
-			Assert.Equal(16.248076809271922, area);
+			Assert.Equal(12, area);
 		}
 
 		[Fact]

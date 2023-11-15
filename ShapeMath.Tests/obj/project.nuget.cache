@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YEqusPw2j3VlcC+SAcAeWjvMUqzJrV8WCXWOn5JyuCnII939h4aAhrhzftjHRvDCwS0BFZxL0ZDeYRZIWOsYtA==",
+  "dgSpecHash": "7LwgKTxdz1xmgMojMT1aJPnMuXEz1Ny4zfiS29+IhbNJu53uqd4BpjpWwCUGdWO0RWkEOt1WTWK1+jXUTisi2w==",
   "success": true,
-  "projectFilePath": "F:\\Visual Studio\\ShapeMath\\ShapeMath.Tests\\ShapeMath.Tests.csproj",
+  "projectFilePath": "F:\\Github\\ShapeMath\\ShapeMath.Tests\\ShapeMath.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maxim\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

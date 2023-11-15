@@ -10,3 +10,15 @@ F:\Visual Studio\ShapeMath\ShapeMath\obj\Debug\net7.0\ShapeMath.dll
 F:\Visual Studio\ShapeMath\ShapeMath\obj\Debug\net7.0\refint\ShapeMath.dll
 F:\Visual Studio\ShapeMath\ShapeMath\obj\Debug\net7.0\ShapeMath.pdb
 F:\Visual Studio\ShapeMath\ShapeMath\obj\Debug\net7.0\ref\ShapeMath.dll
+F:\Github\ShapeMath\ShapeMath\bin\Debug\net7.0\ShapeMath.deps.json
+F:\Github\ShapeMath\ShapeMath\bin\Debug\net7.0\ShapeMath.dll
+F:\Github\ShapeMath\ShapeMath\bin\Debug\net7.0\ShapeMath.pdb
+F:\Github\ShapeMath\ShapeMath\obj\Debug\net7.0\ShapeMath.csproj.AssemblyReference.cache
+F:\Github\ShapeMath\ShapeMath\obj\Debug\net7.0\ShapeMath.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\ShapeMath\ShapeMath\obj\Debug\net7.0\ShapeMath.AssemblyInfoInputs.cache
+F:\Github\ShapeMath\ShapeMath\obj\Debug\net7.0\ShapeMath.AssemblyInfo.cs
+F:\Github\ShapeMath\ShapeMath\obj\Debug\net7.0\ShapeMath.csproj.CoreCompileInputs.cache
+F:\Github\ShapeMath\ShapeMath\obj\Debug\net7.0\ShapeMath.dll
+F:\Github\ShapeMath\ShapeMath\obj\Debug\net7.0\refint\ShapeMath.dll
+F:\Github\ShapeMath\ShapeMath\obj\Debug\net7.0\ShapeMath.pdb
+F:\Github\ShapeMath\ShapeMath\obj\Debug\net7.0\ref\ShapeMath.dll

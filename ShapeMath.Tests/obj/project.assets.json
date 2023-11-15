@@ -5538,11 +5538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Visual Studio\\ShapeMath\\ShapeMath.Tests\\ShapeMath.Tests.csproj",
+      "projectUniqueName": "F:\\Github\\ShapeMath\\ShapeMath.Tests\\ShapeMath.Tests.csproj",
       "projectName": "ShapeMath.Tests",
-      "projectPath": "F:\\Visual Studio\\ShapeMath\\ShapeMath.Tests\\ShapeMath.Tests.csproj",
+      "projectPath": "F:\\Github\\ShapeMath\\ShapeMath.Tests\\ShapeMath.Tests.csproj",
       "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-      "outputPath": "F:\\Visual Studio\\ShapeMath\\ShapeMath.Tests\\obj\\",
+      "outputPath": "F:\\Github\\ShapeMath\\ShapeMath.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5559,8 +5559,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\Visual Studio\\ShapeMath\\ShapeMath\\ShapeMath.csproj": {
-              "projectPath": "F:\\Visual Studio\\ShapeMath\\ShapeMath\\ShapeMath.csproj"
+            "F:\\Github\\ShapeMath\\ShapeMath\\ShapeMath.csproj": {
+              "projectPath": "F:\\Github\\ShapeMath\\ShapeMath\\ShapeMath.csproj"
             }
           }
         }
